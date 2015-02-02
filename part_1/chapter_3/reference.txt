@@ -1,0 +1,6 @@
+# importa reload que atualiza um modulo.
+from imp import reload #python2 reload é built-in
+
+# executa comandos python.
+exec()
+
